@@ -1,3 +1,2 @@
-y = 1.2 
-
-print(type(y))
+z = "codeschool" 
+print(type(z))
